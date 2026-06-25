@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="APP CHO VAY ONLINE KHÁCH HÀNG CÁ NHÂN_ĐỀ TÀI 4_NGUYỄN NGỌC MINH THƯ", page_icon="🏦")
 
-st.title("🏦 Ứng dụng thẩm định tín dụng cá nhân")
+st.title("🏦APP CHO VAY ONLINE KHÁCH HÀNG CÁ NHÂN_ĐỀ TÀI 4_NGUYỄN NGỌC MINH THƯ")
 
 # Nhập dữ liệu
 STV = st.number_input("Nhập số tiền muốn vay (triệu đồng)", min_value=0.0)
